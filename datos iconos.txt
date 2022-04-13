@@ -1,0 +1,32 @@
+
+body {
+  font-family: "Raleway", sans-serif;
+  color: #fff;
+}
+
+todos los colores
+font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+
+
+
+Iconos de fontawesome en la seccion quienes:
+fas fa-plane
+fas fa-mountain
+fas fa-route
+Iconos de fontawesome en la seccion de footer
+fab fa-github-square fa-2x
+fab fa-linkedin fa-2x
+fab fa-twitter-square fa-2x
+fab fa-facebook-square fa-2x
+Recuerden para el css:	
+Traer bootstrap.min.css con CDN de bootsrap
+Usar https://fonts.googleapis.com
+Usar https://use.fontawesome.com
+Usar la propia hoja de estilo style.css
+Recuerden para JS
+Traer jquery-3.6.0.js desde sitio de jquery
+Traer bootstrap.bundle.min.js desde el CDN de bootsrap
+Usar el propio script.js
+19:07
+Para la prueba Viajes Chile

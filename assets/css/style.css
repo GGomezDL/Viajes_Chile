@@ -7,10 +7,28 @@ body {
     color: #fff;
   }
   
-
-
+.tamaño-imagenes{
+    width:100%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 650px;
+}
 
 .img-w50px {
     width: 25px;
     filter: invert(100%);
+}
+
+.card-text {
+    color:white;
+}
+
+#quienes-somos {
+    color: white;
+    font-family: regular;
+}
+
+.card-body{
+    background-color: skyblue;
+   
 }
